@@ -1,0 +1,11 @@
+.name {font-family: courier; font-size: 18pt; color: red}
+.welcome {font-family: courier; font-size: 9pt}
+a.work {font-family: courier; font-size: 14pt}
+p.desc {font-family: times new roman; font-size: 9pt}
+
+.resume_name {font-family: arial; font-size: 22pt; font-weight: bold; text-align: center}
+.resume_address {font-family: arial; font-size: 9pt; text-align: center}
+.resume_header {font-family: arial; font-size: 12pt; font-weight: bold; text-align: center; color: red}
+body.resume {font-family: arial; font-size: 11pt; text-align: center; background-image: url(granite.gif)}
+li {font-family: arial; font-size: 11pt; line-height: 140%}
+a.section {font-weight: bold; font-size: 10pt}
